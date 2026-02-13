@@ -75,7 +75,7 @@ git clone <repo-url>
 
 ## 📊 Performance (Observed)
 
-* Connection Time: **2–3 seconds**
+* Connection Time: **2–4 seconds**
 * Message Success Rate: **100%**
 * Range: **10–15 meters**
 * Supported Nodes: **2**
