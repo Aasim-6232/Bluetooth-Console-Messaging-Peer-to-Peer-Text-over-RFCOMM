@@ -1,6 +1,6 @@
 # Bluetooth Peer-to-Peer Messaging (RFCOMM)
 
-## 📌 Overview
+# Overview
 
 This project implements a lightweight peer-to-peer Bluetooth messaging application using the RFCOMM protocol. It enables short-range communication between devices without requiring internet connectivity.
 
@@ -8,7 +8,7 @@ The system was developed using C# and WPF, providing real-time device discovery,
 
 ---
 
-## 🎯 Objectives
+## Objectives
 
 * Design a device-to-device Bluetooth chat system
 * Implement asynchronous message transmission
@@ -18,7 +18,7 @@ The system was developed using C# and WPF, providing real-time device discovery,
 
 ---
 
-## 🛠 Technologies Used
+##Technologies Used
 
 * **.NET 8**
 * **C#**
@@ -46,7 +46,7 @@ The system uses stream-based communication and async programming to maintain res
 
 ---
 
-## ⚙️ Features
+## Features
 
 * Device discovery
 * Connect/Disconnect handling
@@ -57,7 +57,7 @@ The system uses stream-based communication and async programming to maintain res
 
 ---
 
-## ▶️ How to Run
+##How to Run
 
 1. Install .NET 8 SDK
 2. Clone repository
@@ -82,7 +82,7 @@ git clone <repo-url>
 
 ---
 
-## ⚠️ Limitations
+#Limitations
 
 * Single connection only
 * Windows-only support
@@ -91,7 +91,7 @@ git clone <repo-url>
 
 ---
 
-## 🚀 Future Improvements
+#Future Improvements
 
 * Message encryption
 * Multi-node mesh support
