@@ -18,7 +18,7 @@ The system was developed using C# and WPF, providing real-time device discovery,
 
 ---
 
-##Technologies Used
+## Technologies Used
 
 * **.NET 8**
 * **C#**
