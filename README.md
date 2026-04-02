@@ -57,7 +57,7 @@ The system uses stream-based communication and async programming to maintain res
 
 ---
 
-##How to Run
+## How to Run
 
 1. Install .NET 8 SDK
 2. Clone repository
@@ -82,7 +82,7 @@ git clone <repo-url>
 
 ---
 
-#Limitations
+# Limitations
 
 * Single connection only
 * Windows-only support
@@ -91,7 +91,7 @@ git clone <repo-url>
 
 ---
 
-#Future Improvements
+# Future Improvements
 
 * Message encryption
 * Multi-node mesh support
